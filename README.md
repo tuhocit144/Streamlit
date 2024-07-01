@@ -126,4 +126,3 @@ Project này bao gồm các bài toán cơ bản:
     #### Chatbot 
     ```sh
     Streamlit run chatbot.py
-   ```
